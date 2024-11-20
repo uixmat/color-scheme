@@ -75,5 +75,5 @@ body {
   color-scheme: normal;
   border: 1px solid var(--border);
   color: var(--foreground);
-  @apply bg-green-100 border-green-800;
+  @apply bg-green-100 border-green-800 text-black;
 }
